@@ -6,4 +6,7 @@
 ** Internet connectivity
 ** Routing configuration
 ** Security groups
-* Step-2: 
+* Step-2: Instance \n
+** Web instance \n
+** DB instance
+* Step-3: Load Balancer
